@@ -2,7 +2,7 @@
 
 ## Project setup teste 26_06_2024
 ```
-npm install
+npm install teste natan
 ```
 
 ### Compiles and hot-reloads for development
