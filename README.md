@@ -1,6 +1,6 @@
 # expenses
 
-## Project setup
+## Project setup teste 26_06_2024
 ```
 npm install
 ```
